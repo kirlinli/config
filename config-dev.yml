@@ -1,2 +1,4 @@
-config:
-  name: "dev"
+my:
+  name: hwj112233
+  age: 19
+  birth: 1999-02-03
